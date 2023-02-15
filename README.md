@@ -1,3 +1,12 @@
-# buildspace 
 ### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+
+## GPT writer
+
+Get started
+
+```
+git clone <remote url>
+cd GPT-writer
+yarn install
+yarn dev
+```
