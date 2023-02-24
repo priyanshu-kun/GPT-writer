@@ -10,3 +10,4 @@ cd GPT-writer
 yarn install
 yarn dev
 ```
+see live: https://gpt-writer-production.up.railway.app/
